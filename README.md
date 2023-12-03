@@ -96,13 +96,16 @@ Took screenshots:
 
     Mobile:
         With VPN off:
+        
 ![Phone VPN OFF](https://github.com/Unevenr/Unevenr-Wireguard-Installation-Guide/assets/112726183/85f62a46-6f61-462d-9abc-e2bff243dd22)
 
         With VPN on:
+        
 ![Phone VPN ON](https://github.com/Unevenr/Unevenr-Wireguard-Installation-Guide/assets/112726183/aafecbf8-d6d5-4ca8-a2b9-82c87f3a5838)
 ![Phone VPN ON2](https://github.com/Unevenr/Unevenr-Wireguard-Installation-Guide/assets/112726183/885fb7be-6adb-49b7-83e8-cd10968bae34)
 
     PC:
+    
 <img width="959" alt="Wireguard PC Test" src="https://github.com/Unevenr/Unevenr-Wireguard-Installation-Guide/assets/112726183/98148d3e-173f-4bdf-97ce-3bee175f3d8a">
 
 
